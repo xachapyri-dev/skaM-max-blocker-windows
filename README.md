@@ -4,6 +4,8 @@
   <img width="868" height="444" alt="Снимок экрана 2025-08-24 131020" src="https://github.com/user-attachments/assets/a5bd9ed6-edeb-4e85-abca-cebc238369c6" />
 </p>
 
+### [Скачать последнию версию (Последний релиз)](https://github.com/kroshidanielstudio/skaM-max-blocker-windows/releases/latest)
+
 # Devlog
 ## 1. Планируется добавить 2 и 3 уровень защиты
 - 1 уровень: Добавляет дебаггер на имя приложения max.exe (Путь реестра: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options)
