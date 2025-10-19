@@ -4,7 +4,7 @@
 [![Total Downloads](https://img.shields.io/github/downloads/xachapyri-dev/skaM-max-blocker-windows/total)](https://github.com/xachapyri-dev/skaM-max-blocker-windows/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language: C#](https://img.shields.io/badge/Language-C%23-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Platform: .NET](https://imgimg.shields.io/badge/Platform-.NET-purple.svg)](https://dotnet.microsoft.com/)
+[![Platform: .NET Framework 4.7.2+](https://img.shields.io/badge/.NET%20Framework-4.7.2%2B-512BD4.svg)](https://dotnet.microsoft.com/download/dotnet-framework)
 
 Программа для блокировки нежелательного запуска мессенджера MAX (Макс) на операционной системе Windows.
 
