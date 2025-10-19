@@ -1,10 +1,10 @@
 # 🛑 Anti-MAX Blocker (skaM) для Windows
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/kroshidanielstudio/skaM-max-blocker-windows)](https://github.com/kroshidanielstudio/skaM-max-blocker-windows/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/kroshidanielstudio/skaM-max-blocker-windows/total)](https://github.com/kroshidanielstudio/skaM-max-blocker-windows/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xachapyri-dev/skaM-max-blocker-windows)](https://github.com/xachapyri-dev/skaM-max-blocker-windows/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/xachapyri-dev/skaM-max-blocker-windows/total)](https://github.com/xachapyri-dev/skaM-max-blocker-windows/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language: C#](https://img.shields.io/badge/Language-C%23-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Platform: .NET](https://img.shields.io/badge/Platform-.NET-purple.svg)](https://dotnet.microsoft.com/)
+[![Platform: .NET](https://imgimg.shields.io/badge/Platform-.NET-purple.svg)](https://dotnet.microsoft.com/)
 
 Программа для блокировки нежелательного запуска мессенджера MAX (Макс) на операционной системе Windows.
 
@@ -15,7 +15,7 @@
   <img src="https://github.com/user-attachments/assets/a5bd9ed6-edeb-4e85-abca-cebc238369c6" alt="Снимок экрана 2025-08-24 131020" width="48%" />
 </p>
 
-### [📥 Скачать последнюю версию (Latest Release)](https://github.com/kroshidanielstudio/skaM-max-blocker-windows/releases/latest)
+### [📥 Скачать последнюю версию (Latest Release)](https://github.com/xachapyri-dev/skaM-max-blocker-windows/releases/latest)
 
 ---
 
