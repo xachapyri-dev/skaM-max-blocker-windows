@@ -1,3 +1,11 @@
+<div align="center">
+
+# Проект закрыт
+  
+</div>
+
+Причина: Не пользуется спросом
+
 # 🛑 Anti-MAX Blocker (skaM) для Windows
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xachapyri-dev/skaM-max-blocker-windows)](https://github.com/xachapyri-dev/skaM-max-blocker-windows/releases/latest)
